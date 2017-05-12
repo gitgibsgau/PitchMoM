@@ -1,5 +1,5 @@
-# PitchPerfect
-iPhone app, where you can record your voice and add audio filters on it.
+# MeetingMate
+iPhone app, where you can record your meetings and add audio filters on it.
 
 Swift 3.0 
 
@@ -10,10 +10,10 @@ Swift 3.0
 
 ## Usage
 
-Record your audio and use one of six filters by just tapping.
+Record your meeting and generate minutes-of-meeting.
 
 
 ## License
 
-PitchPerfect is released under [MIT License](https://opensource.org/licenses/MIT)
+MeetingMate is released under [SJSU](https://opensource.org/licenses/SJSU)
 
